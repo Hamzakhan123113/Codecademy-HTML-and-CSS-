@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Favorite Quotes</title>
+  </head>
+  <body>
+    <!-- My favourite quote-->
+    <p>No pain no gain?</p>
+    <p>Benjamin Franklin</p>
+  </body>
+</html>
